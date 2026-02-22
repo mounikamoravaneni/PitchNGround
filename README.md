@@ -27,7 +27,8 @@ Use promocodes and redeem points to get exciting discounts while booking.
 <img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/aa965f65-4d26-4feb-88c5-8c03a26109c4" />
 <img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/844e121a-f15d-48b8-96d4-f2c99d8595b6" />
 
-<img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/36e59ecc-5124-4939-8182-d00521cde697" />
+<img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/048dc1b6-a305-43c7-a66c-ce6ed6141aa3" />
+
 
 Play store link:
 https://play.google.com/store/apps/details?id=com.wingspan.pitchnground&hl=en_IN
